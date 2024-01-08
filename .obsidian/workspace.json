@@ -11,12 +11,8 @@
             "id": "b87243d32a839f67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hello world.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
