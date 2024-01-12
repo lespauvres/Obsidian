@@ -8,50 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b87243d32a839f67",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "92963b878f55e38a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "寒假计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fcb673b0b17f80b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "个性化实践答辩.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32f5cea61529f32d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "冬令营：.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51d8ce129dec8783",
             "type": "leaf",
             "state": {
@@ -63,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
