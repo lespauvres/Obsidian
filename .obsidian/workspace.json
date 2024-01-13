@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X个XX整理：.md",
+                "file": "个性化实践答辩.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X个XX整理：.md",
+                "file": "个性化实践答辩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X个XX整理：.md",
+                "file": "个性化实践答辩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X个XX整理：.md"
+                "file": "个性化实践答辩.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   "active": "51d8ce129dec8783",
   "lastOpenFiles": [
     "冬令营：.md",
-    "X个XX整理：.md",
     "个性化实践答辩.md",
     "寒假计划.md",
+    "X个XX整理：.md",
     "hello world.md",
     "Wayaの日记.md"
   ]
