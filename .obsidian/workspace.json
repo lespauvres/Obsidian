@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "调研目标.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78f2caa81b8a6662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "调研目标.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "调研目标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "调研目标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +150,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "调研目标.md"
               }
             }
+          },
+          {
+            "id": "dd53700d105349a4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,16 +176,20 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bbe02a0b7b87aad",
+  "active": "78f2caa81b8a6662",
   "lastOpenFiles": [
     "VEX电控培训方案.md",
-    "未命名.md",
+    "寒假计划.md",
+    "Excalidraw/Drawing 2024-01-16 13.56.41.excalidraw.md",
+    "调研目标.md",
+    "Excalidraw",
     "VEX番茄时钟.cpp",
     "VEX贪吃蛇.cpp",
-    "寒假计划.md",
     "个性化实践答辩.md",
     "冬令营：.md",
     "X个XX整理：.md",
