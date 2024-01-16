@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6dcd7a03fd6fe541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac5f0f607a002c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "三个滑雪对象的需求.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "需求观察.md",
+                "file": "三个滑雪对象的需求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "需求观察.md",
+                "file": "三个滑雪对象的需求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "需求观察.md"
+                "file": "三个滑雪对象的需求.md"
               }
             }
           },
@@ -193,14 +217,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f66cf34371a0756",
+  "active": "ac5f0f607a002c46",
   "lastOpenFiles": [
-    "调研目标.md",
-    "VEX电控培训方案.md",
-    "寒假计划.md",
     "个性化实践答辩.md",
-    "冬令营：.md",
+    "调研目标.md",
+    "三个滑雪对象的需求.md",
+    "寒假计划.md",
+    "未命名.md",
     "需求观察.md",
+    "VEX电控培训方案.md",
+    "冬令营：.md",
     "Excalidraw/Drawing 2024-01-16 13.56.41.excalidraw.md",
     "Excalidraw",
     "VEX番茄时钟.cpp",
