@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二. 丁丁的用户需求.md",
+                "file": "一. 阿佐用户的需求.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ddd15056b2d7c48f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二. 丁丁的用户需求.md",
+                "file": "一. 阿佐用户的需求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "二. 丁丁的用户需求.md",
+                "file": "一. 阿佐用户的需求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二. 丁丁的用户需求.md"
+                "file": "一. 阿佐用户的需求.md"
               }
             }
           },
@@ -159,12 +158,13 @@
   },
   "active": "45195bb2434d8117",
   "lastOpenFiles": [
-    "三. 鸢的用户需求.md",
-    "二. 丁丁的用户需求.md",
-    "一. 阿佐用户的需求.md",
-    "个性化实践答辩.md",
     "需求观察.md",
     "调研目标.md",
+    "二. 丁丁的用户需求.md",
+    "寒假计划.md",
+    "个性化实践答辩.md",
+    "三. Fugger的用户需求.md",
+    "一. 阿佐用户的需求.md",
     "二. 中年创业者需求.md",
     "用户画像和大饼/需求观察.md",
     "用户画像和大饼/三. XX的用户需求.md",
@@ -173,7 +173,6 @@
     "用户画像和大饼/二. 中年创业者需求.md",
     "用户画像和大饼",
     "VEX电控培训方案.md",
-    "寒假计划.md",
     "冬令营：.md",
     "Excalidraw/Drawing 2024-01-16 13.56.41.excalidraw.md",
     "Excalidraw",
