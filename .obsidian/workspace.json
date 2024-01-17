@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45195bb2434d8117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "user_profile/需求观察.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0756a088b2915185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "user_profile/调研目标.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed4055785c7bd22a",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +158,13 @@
   },
   "active": "ed4055785c7bd22a",
   "lastOpenFiles": [
+    "user_profile/需求观察.md",
     "user_profile/三. Fugger的用户需求.md",
     "user_profile/分工模式.md",
-    "user_profile/调研目标.md",
-    "user_profile/需求观察.md",
-    "寒假计划.md",
     "user_profile/一. 阿佐用户的需求.md",
     "user_profile/二. 丁丁的用户需求.md",
+    "user_profile/调研目标.md",
+    "寒假计划.md",
     "未命名",
     "个性化实践答辩.md",
     "VEX电控培训方案.md",
