@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "ef37c7cbc02b1054",
+        "id": "2f114b6adf2e0858",
         "type": "tabs",
         "children": [
           {
-            "id": "ed4055785c7bd22a",
+            "id": "8ec8c7386a4e703c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "user_profile/分工模式.md",
+                "file": "任务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2759ba914cbe0d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-20 11.09.14.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "94167a4ed25f7964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "（）",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "user_profile/分工模式.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "user_profile/分工模式.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "user_profile/分工模式.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -142,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,17 +177,29 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ed4055785c7bd22a",
+  "active": "94167a4ed25f7964",
   "lastOpenFiles": [
-    "user_profile/需求观察.md",
+    "Excalidraw/Drawing 2024-01-20 11.09.14.excalidraw.md",
+    "未命名.md",
+    "Excalidraw/Drawing 2024-01-20 11.09.14.excalidraw.png",
+    "任务.md",
+    "难处记录.md",
+    "硬件培训方案.md",
+    "滑雪体验.md",
+    "滑雪访谈计划.md",
     "user_profile/三. Fugger的用户需求.md",
-    "user_profile/分工模式.md",
-    "user_profile/一. 阿佐用户的需求.md",
     "user_profile/二. 丁丁的用户需求.md",
+    "user_profile/分工模式.md",
+    "user_profile/需求观察.md",
+    "问题思路.md",
     "user_profile/调研目标.md",
+    "Excalidraw/Drawing 2024-01-17 17.19.32.excalidraw.md",
+    "Excalidraw",
+    "user_profile/一. 阿佐用户的需求.md",
     "寒假计划.md",
     "未命名",
     "个性化实践答辩.md",
@@ -178,11 +214,7 @@
     "用户画像和大饼",
     "冬令营：.md",
     "Excalidraw/Drawing 2024-01-16 13.56.41.excalidraw.md",
-    "Excalidraw",
     "VEX番茄时钟.cpp",
-    "VEX贪吃蛇.cpp",
-    "X个XX整理：.md",
-    "hello world.md",
-    "Wayaの日记.md"
+    "VEX贪吃蛇.cpp"
   ]
 }
